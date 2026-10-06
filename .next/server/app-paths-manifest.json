@@ -1,0 +1,13 @@
+{
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/memories/page": "app/memories/page.js",
+  "/code-of-conduct/page": "app/code-of-conduct/page.js",
+  "/community/page": "app/community/page.js",
+  "/schedule/page": "app/schedule/page.js",
+  "/speakers/page": "app/speakers/page.js",
+  "/venue/page": "app/venue/page.js",
+  "/speakers/[slug]/page": "app/speakers/[slug]/page.js"
+}
